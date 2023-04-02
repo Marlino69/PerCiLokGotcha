@@ -1,4 +1,4 @@
 # PerCiLok-UMNGotcha
 Proyek UTS IF231
 
-Test 123
+PerCiLok UMNGotcha adalah proyek UTS untuk mata kuliah Intro to Internet Technology.
