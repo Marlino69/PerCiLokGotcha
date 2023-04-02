@@ -3,9 +3,6 @@ Proyek UTS IF231
 
 PerCiLok UMNGotcha adalah proyek UTS untuk mata kuliah Intro to Internet Technology.
 
-<p align="left">
-  <a href="#key-features">Key Features</a> •
-
 ## Key Features
 
 * LivePreview - Make changes, See changes
