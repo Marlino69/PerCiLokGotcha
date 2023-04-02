@@ -24,7 +24,7 @@ Game versi PerCiLok ini memiliki beberapa fitur yang akan dijabarkan di poin ber
 
 ## Contributors
 
-* [Muhammad Lutfi Salinggih](https://www.instagram.com/salinggih_/)	`00000073400 `
+* [Muhammad Lutfi Salinggih](https://www.instagram.com/salinggih_/)	`00000073400`
 * [Aditya Stephen Hung](https://www.instagram.com/adityastpn_/)		`00000072563`
 * [Hafizh Kumara Widyadhana](https://www.instagram.com/haaa_kw/)	`00000073191`
 * [Vincent Marlino](https://www.instagram.com/marli.no/)		`00000072738`
