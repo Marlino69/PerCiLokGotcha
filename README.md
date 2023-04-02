@@ -22,7 +22,7 @@ Game ini memiliki beberapa fitur yang akan dijabarkan di poin berikut.
 
 * Status pada bar Hunger, Hygiene, Sleep, dan Happiness akan menjadi 50% di saat awal mula game.
 * Ketika user memilih untuk bermain dengan peliharaannya, bar Hygiene, Sleep akan menurun, serta bar Hunger akan meningkat.
-  - Dan akan berlaku juga peningkatan atau penurunan bar tertenty saat dilakukan aksi lainnya seperti: mandi, tidur dan makan.
+  - Dan akan berlaku juga peningkatan atau penurunan bar tertentu saat dilakukan aksi lainnya seperti: mandi, tidur dan makan.
 * Setiap meningkatnya level, kuantitas berkurangnya value pada bar akan lebih besar per tick.
 * Di setiap difficulty akan dibedakan dengan seberapa cepat value pada bar berkurang (misal 1 per detik, atau 1 per 0,5 detik).
 
