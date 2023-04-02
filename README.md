@@ -1,7 +1,7 @@
 # PerCiLok-UMNGotcha
 
-UMNGotcha adalah proyek UTS untuk mata kuliah Intro to Internet Technology (IF231).
-UMNGotcha adalah program game yang mensimulasikan mempelihara hewan peliharaan.
+UMNGotcha adalah proyek UTS untuk mata kuliah Intro to Internet Technology (IF231).<br />
+UMNGotcha adalah program game yang mensimulasikan mempelihara hewan peliharaan.<br />
 Game versi PerCiLok ini memiliki beberapa fitur yang akan dijabarkan di poin berikut.
 
 ## Key Features
