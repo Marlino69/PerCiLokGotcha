@@ -29,7 +29,7 @@ Game ini memiliki beberapa fitur yang akan dijabarkan di poin berikut.
 
 ## Presentation Video
 
-> Tonton Video Presentasi Berikut!
+> Tonton Video Presentasi Berikut! *Click untuk menonton*
 
 [![Tonton Video Berikut!](https://img.youtube.com/vi/0zom4UU6CeA/maxresdefault.jpg)](https://youtu.be/0zom4UU6CeA)
 
