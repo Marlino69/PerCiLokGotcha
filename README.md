@@ -25,6 +25,11 @@ Game ini memiliki beberapa fitur yang akan dijabarkan di poin berikut.
   - Dan akan berlaku juga peningkatan atau penurunan bar tertentu saat dilakukan aksi lainnya seperti: mandi, tidur dan makan.
 * Setiap meningkatnya level, kuantitas berkurangnya value pada bar akan lebih besar per tick.
 * Di setiap difficulty akan dibedakan dengan seberapa cepat value pada bar berkurang (misal 1 per detik di difficulty Normal, atau 1 per 0,5 detik di difficulty Hard).
+* Avatar akan mati jika bar Hunger sudah full, atau bar Sleep, Hygiene dan Happiness sudah mencapai 0.
+
+## Presentation Video
+
+[![Tonton Video Berikut!](https://img.youtube.com/vi/0zom4UU6CeA/maxresdefault.jpg)](https://youtu.be/0zom4UU6CeA)
 
 ## Built with 
 
