@@ -4,6 +4,10 @@ PerCiLokGotcha adalah proyek UTS untuk mata kuliah Intro to Internet Technology 
 PerCiLokGotcha adalah program game yang mensimulasikan mempelihara hewan peliharaan.<br />
 Game ini memiliki beberapa fitur yang akan dijabarkan di poin berikut.
 
+## How To Use
+
+File yang perlu didownload adalah folder "Project Files" saja, lalu run index.html di browser yang dipilih.
+
 ## Key Features
 
 * Pilihan Avatar yang banyak.
