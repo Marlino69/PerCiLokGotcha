@@ -13,7 +13,7 @@ File yang perlu didownload adalah folder "Project Files" saja, lalu run index.ht
 * Pilihan Avatar yang banyak.
   - Terdapat 3 avatar yang berbeda yaitu: anjing, kucing dan panda.
 * Avatar yang akan berubah setiap level berubah.
-  - Terdapat 3 level yang berbeda yaitu: Baby, Child dan Adult.
+  - Terdapat 3 level yang berbeda yaitu: Baby, Teen dan Adult.
 * Bar yang responsive tergantung dari input user.
   - Terdapat 4 bar yang bertindak sebagai status hewan peliharaan yaitu: Hunger, Hygiene, Sleep, dan Happiness.
 * Fitur Difficulty yang akan memberi pemain tantangan yang berbeda.
