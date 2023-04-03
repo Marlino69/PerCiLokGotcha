@@ -1,0 +1,44 @@
+#content {
+  display: none;
+}
+
+#endGame {
+  display: none;
+  background-color: white;
+  border-radius: 10%;
+  border: black;
+}
+
+.avatar {
+  height: 150px;
+  width: 150px;
+  cursor: pointer;
+  margin: 5px;
+  border: 3px solid transparent;
+  border-radius: 50%;
+}
+
+#avatar1,
+#avatar2,
+#avatar3 {
+  height: 150px;
+  width: 150px;
+  cursor: pointer;
+  margin: 10px;
+  border: 3px solid transparent;
+  border-radius: 50%;
+}
+
+#background {
+  background-size: cover;
+  opacity: 90%;
+  background-position: center;
+  height: 75vh;
+}
+#deathBg {
+  background-size: cover;
+  opacity: 90%;
+  background-position: center;
+  height: 79vh;
+  width: 100%;
+}
