@@ -39,7 +39,8 @@ File yang perlu didownload adalah folder "Project Files" saja, lalu run index.ht
 
 ## Built with 
 
-* [![daisyUI][daisyui.com]][daisyui-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 
 ## Contributors
